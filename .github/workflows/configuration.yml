@@ -68,7 +68,7 @@ jobs:
 
 
   build:
-    needs: analyze
+    # needs: analyze
     runs-on: ubuntu-latest
 
     steps:
